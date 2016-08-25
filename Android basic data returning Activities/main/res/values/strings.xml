@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">DataPass</string>
+    <string name="title_activity_second">SecondActivity</string>
+    <string-array name="actions">
+        <item>H</item>
+        <item>E</item>
+        <item>L</item>
+        <item>L</item>
+        <item>L</item>
+        <item>O</item>
+    </string-array>
+</resources>

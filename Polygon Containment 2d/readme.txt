@@ -1,0 +1,2 @@
+Not a finished project yet, as it is yet to be implemented in 3D and mathematically proven.
+this project aims to answer the question, given P and Q convex polygons with n and k vertices correspondingly: determine if Q is contained in P.
